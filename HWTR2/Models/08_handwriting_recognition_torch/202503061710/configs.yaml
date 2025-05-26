@@ -1,0 +1,8 @@
+batch_size: 32
+height: 64
+learning_rate: 0.01
+max_text_length: 11
+model_path: Models/08_handwriting_recognition_torch\202503061710
+train_epochs: 11
+vocab: "ABCDEFGIJLMNPRSabcdefghijklmnopqrstuvwxyz\xF1"
+width: 256
